@@ -1,8 +1,8 @@
 # Jekyll configuration
-version: v49
+version: v50
 author: TGL
 author.name: Gatomek
-author.email: tomasz.galinski@gmail.com
+email: tomasz.galinski@gmail.com
 title: Tytuł
 description: Description
 url: gatomek.github.io
