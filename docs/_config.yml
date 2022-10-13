@@ -1,14 +1,15 @@
 # Jekyll configuration
-name: Gatomek
-title: gatomek.github.io
-email: tomasz.galinski@gmail.com
+version: v46
+author.name: Gatomek
+author.email: tomasz.galinski@gmail.com
+title: Tytuł
 description: Description
 url: gatomek.github.io
 markdown: kramdown
 theme: minima
 #remote_theme: jekyll/minima
 rss: false
-version: v45
+
 
 #plugins:
 #  - jekyll-feed
