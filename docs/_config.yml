@@ -1,7 +1,7 @@
 # Jekyll configuration
-version: v46
-author.name: Gatomek
-author.email: tomasz.galinski@gmail.com
+version: v47
+name: Gatomek
+email: tomasz.galinski@gmail.com
 title: Tytuł
 description: Description
 url: gatomek.github.io
