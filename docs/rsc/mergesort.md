@@ -1,3 +1,7 @@
+layout: page
+title: "Sortowanie przez scalanie"
+permalink: /mergesort
+
 ## Sortowanie przez scalanie
 
 1. Opracowany przez Johna von Neumana

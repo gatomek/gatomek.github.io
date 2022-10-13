@@ -17,5 +17,5 @@ PS. Also developing myself in the area of Python and JavaScript (React) after-ho
 [^1]: perheps "was" ;)
 [^2]: fast everyday ;)
 
-My [test page](test).
-[Sortowanie przez scalanie](rsc/mergesort).
+* My [test page](test).
+* [Sortowanie przez scalanie](rsc/mergesort).
