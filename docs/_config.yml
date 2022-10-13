@@ -1,9 +1,9 @@
 # Jekyll configuration
-version: v51
+version: v52
 author: Gatomek
 email: tomasz.galinski@gmail.com
-title: Tytuł
-description: Description
+title: gatomek.github.io
+description: Strona domowa
 url: gatomek.github.io
 markdown: kramdown
 theme: minima
