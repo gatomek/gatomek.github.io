@@ -8,8 +8,8 @@ markdown: kramdown
 #theme: minima
 remote_theme: jekyll/minima
 
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 minima:
   skin: classic
