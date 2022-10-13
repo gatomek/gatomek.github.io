@@ -4,9 +4,9 @@ title: "Strona główna"
 permalink: /
 ---
 
-Hi v6!
+# Hi v7!
 
-I work as a C++/Java software developer.
+I work as a C++ and Java software developer.
 
 I have the educational background of Electronics and Telecommunications.
 My specialization is [^1] Microprocessor Systems and Programmable Logic Devices (Assembler, C, C++, Verilog, VHDL).
