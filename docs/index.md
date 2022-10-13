@@ -4,7 +4,7 @@ title: "Strona główna"
 permalink: /
 ---
 
-# Hi v7!
+# Hi v8!
 
 I work as a C++ and Java software developer.
 
@@ -24,4 +24,4 @@ PS. Also developing myself in the area of Python and JavaScript (React) after-ho
 [^2]: fast everyday ;)
 
 * My [test page](test).
-* [Sortowanie przez scalanie](rsc/mergesort).
+* [Sortowanie przez scalanie](mergesort).
