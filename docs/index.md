@@ -4,7 +4,7 @@ title: "Strona główna"
 permalink: /
 ---
 
-# Hi v16!
+# Hi v17!
 
 I work as a C++ and Java software developer.
 
