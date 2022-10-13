@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "Strona główna"
 permalink: /
 editable: false

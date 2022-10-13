@@ -8,7 +8,7 @@ markdown: kramdown
 theme: minima
 #remote_theme: jekyll/minima
 rss: false
-version: v44
+version: v45
 
 #plugins:
 #  - jekyll-feed
