@@ -5,8 +5,8 @@ email: tomasz.galinski@gmail.com
 description: Description
 url: gatomek.github.io
 markdown: kramdown
-theme: minima
-#remote_theme: jekyll/minima
+#theme: minima
+remote_theme: jekyll/minima
 
 #plugins:
 #  - jekyll-feed
