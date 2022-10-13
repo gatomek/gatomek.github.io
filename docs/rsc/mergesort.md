@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Sortowanie przez scalanie"
 permalink: /mergesort
 ---

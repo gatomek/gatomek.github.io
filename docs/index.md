@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Sortowanie przez scalanie"
+title: "Strona główna"
 permalink: /
 ---
 
-## V4
+## V5
 
 Hi!
 
