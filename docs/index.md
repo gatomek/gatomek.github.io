@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Sortowanie przez scalanie"
-permalink: /mergesort
+permalink: /
 ---
 
-## V3
+## V4
 
 Hi!
 
