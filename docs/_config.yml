@@ -1,5 +1,7 @@
 # Jekyll configuration
 name: Gatomek
+title: My awesome title
+email: tomasz.galinski@gmail.com
 description: Description
 url: gatomek.github.io
 markdown: kramdown
