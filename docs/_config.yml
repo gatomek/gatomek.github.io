@@ -7,3 +7,6 @@ url: gatomek.github.io
 markdown: kramdown
 theme: minima
 
+minima:
+  skin: dark
+
