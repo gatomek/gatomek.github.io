@@ -3,9 +3,7 @@ layout: post
 permalink: /mergesort
 ---
 
-[Strona główna](index)
-
-# Sortowanie przez scalanie
+## Sortowanie przez scalanie
 Opracowany przez Johna von Neumana
 
 # Algorytm
