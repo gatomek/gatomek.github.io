@@ -4,7 +4,7 @@ title: "Strona główna"
 permalink: /
 ---
 
-# Hi v13!
+# Hi v14!
 
 I work as a C++ and Java software developer.
 
@@ -13,7 +13,7 @@ My specialization is [^1] Microprocessor Systems and Programmable Logic Devices 
 
 During last year of my studies I had the opportunity to start working as a C++ software developer and in very interesting projects.
 
-I started with programming of SCADA systems for Energy Distributing Systems in C++ (company C++ framework, MFC).
+I started with programming of SCADA systems for Energy Distributing Systems in C++ (proprietary C++ framework, MFC).
 Along the time I started programming Web Applications in the same domain (Java, Spring, JSF, Hibernate).
 
 I enjoy my profession everyday [^2].
