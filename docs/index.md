@@ -1,10 +1,10 @@
 ---
-layout: home
+layout: page
 title: "Strona główna"
 permalink: /
 ---
 
-# Hi v12!
+# Hi v13!
 
 I work as a C++ and Java software developer.
 

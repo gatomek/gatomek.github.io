@@ -1,6 +1,6 @@
 # Jekyll configuration
 name: Gatomek
-description: Gatomek Description
+description: Description
 url: gatomek.github.io
 markdown: kramdown
 theme: minima
