@@ -4,7 +4,7 @@ title: "Strona główna"
 permalink: /
 ---
 
-# Hi v15!
+# Hi v16!
 
 I work as a C++ and Java software developer.
 
@@ -18,7 +18,7 @@ Along the time I started programming Web Applications in the same domain (Java, 
 
 I enjoy my profession everyday [^2].
 
-PS. Also developing myself in the area of Python and JavaScript (React) after-hours.
+PS. Also developing my skills a little in the areas of Python and JS (React) after-hours.
 
 [^1]: perheps "was" ;)
 [^2]: fast everyday ;)
