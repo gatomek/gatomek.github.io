@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Test Page</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f2f5;
+        }
+        .card {
+            background: white;
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h1>Test Page Active! 🚀</h1>
+    <p>If you can see this, your HTML is working perfectly.</p>
+    <button id="testButton">Click Me</button>
+    <p id="message" style="margin-top: 20px; color: green; font-weight: bold;"></p>
+</div>
+
+<script>
+    const btn = document.getElementById('testButton');
+    const msg = document.getElementById('message');
+
+    btn.addEventListener('click', () => {
+        msg.textContent = "Success! JavaScript is also running.";
+        console.log("Button was clicked!");
+    });
+</script>
+
+</body>
+</html>
