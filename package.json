@@ -1,6 +1,7 @@
 {
   "name": "resume",
   "private": true,
+  "homepage": "https://gatomek.github.io",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
