@@ -13,10 +13,11 @@ function App() {
             </div>
             <div>
                 <h1>@Gatomek</h1>
-                <p>
-                    <a href='https://gatomek.github.io/project-flashcards-frontend/'>https://gatomek.github.io/project-flashcards-frontend/</a>
-                </p>
-            </div>
+                <div><a href='https://gatomek.github.io/project-flashcards-frontend/'>Flashcards</a></div>
+                <div><a href='https://gatomek.github.io/project-flightradar-frontend/'>Flightradar</a></div>
+                <div><a href='https://gatomek.github.io/kata-flightradar-radars/'>Radars</a></div>
+                <div><a href='https://gatomek.github.io/kata-flightradar-flight/'>Flight</a></div>
+                </div>
         </section>
     )
 }
