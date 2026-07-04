@@ -1,5 +1,13 @@
 # gatomek.github.io
 
+## GitHub
+
+https://github.com/gatomek/gatomek.github.io
+
+## Application
+
+https://gatomek.github.io
+
 ## Links
 - https://www.youtube.com/watch?v=iebVPISad54
 - https://dev.to/dyarleniber/setting-up-a-ci-cd-workflow-on-github-actions-for-a-react-app-with-github-pages-and-codecov-4hnp
