@@ -1,6 +1,6 @@
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'npm 
+import heroImg from './assets/hero.png'
 import './App.css'
 
 function App() {
@@ -13,7 +13,8 @@ function App() {
             </div>
             <div>
                 <h1>@Gatomek</h1>
-                <div><a href='https://gatomek.github.io/project-flashcards-frontend/'>Flashcards</a></div>
+                <div><a href='https://gatomek.github.io/project-flashcards-frontend/'>Flashcards (GitHub Pages)</a></div>
+                <div><a href='https://flightradar-gatomek.netlify.app/aircrafts'>Flashcards (Netlify)</a></div>
                 <div><a href='https://gatomek.github.io/project-flightradar-frontend/'>Flightradar</a></div>
                 <div><a href='https://gatomek.github.io/kata-flightradar-radars/'>Radars</a></div>
                 <div><a href='https://gatomek.github.io/kata-flightradar-flight/'>Flight</a></div>
