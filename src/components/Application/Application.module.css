@@ -1,0 +1,25 @@
+.root {
+    width: 400px;
+    border: solid 0 gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+
+.icon {
+    padding: 5px;
+    margin: 5px;
+    border: solid 1px gray;
+}
+
+.label {
+    border: solid 0 blue;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    align-items: center;
+    padding: 1rem;
+    font-size: x-large;
+}

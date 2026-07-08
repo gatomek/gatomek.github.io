@@ -2,6 +2,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
+import {Application} from "./components/Application/Application.tsx";
 
 function App() {
     return (
@@ -13,12 +14,27 @@ function App() {
             </div>
             <div>
                 <h1>@Gatomek</h1>
-                <div><a href='https://gatomek.github.io/project-flashcards-frontend/'>Flashcards (GitHub Pages)</a></div>
-                <div><a href='https://flightradar-gatomek.netlify.app/aircrafts'>Flashcards (Netlify)</a></div>
-                <div><a href='https://gatomek.github.io/project-flightradar-frontend/'>Flightradar</a></div>
-                <div><a href='https://gatomek.github.io/kata-flightradar-radars/'>Radars</a></div>
-                <div><a href='https://gatomek.github.io/kata-flightradar-flight/'>Flight</a></div>
-                </div>
+                <Application origins={
+                    [
+                        {name:'netlify', url: 'https://flightradar-gatomek.netlify.app'},
+                        {name:'github', url: 'https://gatomek.github.io/project-flightradar-frontend'}
+                    ]
+                }>
+                    Flightradar
+                </Application>
+
+                <Application origins={[{name:'github', url: 'https://gatomek.github.io/project-flashcards-frontend'}]}>
+                    Flashcards
+                </Application>
+
+                <Application origins={[{name:'github', url: 'https://gatomek.github.io/kata-flightradar-radars'}]}>
+                    Radars
+                </Application>
+
+                <Application origins={[{name:'github', url: 'https://gatomek.github.io/kata-flightradar-flight'}]}>
+                    Flight
+                </Application>
+            </div>
         </section>
     )
 }
