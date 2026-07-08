@@ -23,7 +23,8 @@ export function Application(props: Readonly<ApplicationProps>) {
                 {
                     props.origins.map(o =>
                         <a key={o.name} href={o.url} title={o.name} target={"_blank"} referrerPolicy={"no-referrer"}>
-                            <img className={styles.icon} src={originToLogo(o.name)} width="40" height="40" alt={o.name}/>
+                            <img className={styles.icon} src={originToLogo(o.name)} width="40" height="40"
+                                 alt={o.name}/>
                         </a>
                     )
                 }
